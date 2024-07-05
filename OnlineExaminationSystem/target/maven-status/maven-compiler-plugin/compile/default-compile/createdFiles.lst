@@ -1,0 +1,11 @@
+com\exam\App.class
+com\exam\controller\UserController.class
+com\exam\repository\QuestionRepository.class
+com\exam\repository\ExamRepository.class
+com\exam\model\User.class
+com\exam\repository\UserRepository.class
+com\exam\model\Exam.class
+com\exam\service\UserService.class
+com\exam\controller\ExamController.class
+com\exam\model\Question.class
+com\exam\service\ExamService.class

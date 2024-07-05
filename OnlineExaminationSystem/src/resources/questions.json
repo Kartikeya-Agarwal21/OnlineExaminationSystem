@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is Java?",
+        "options": ["Programming Language", "OS", "IDE", "Browser"],
+        "answer": "Programming Language"
+    },
+    {
+        "question": "What is OOP?",
+        "options": ["Object Oriented Programming", "Object Oriented Procedure", "Open Object Programming", "None"],
+        "answer": "Object Oriented Programming"
+    }
+]
